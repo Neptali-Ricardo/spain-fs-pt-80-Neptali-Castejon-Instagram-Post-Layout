@@ -1,15 +1,22 @@
 # HTML Hello
 
-El boilerplate más básico para cualquier estudiante de 4Geeks Academy, empieza tu primer sitio web desde cero.
+The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
 
-> Tienes un video tutorial sobre [cómo usar esta plantilla para crear tu primer sitio web aquí](https://youtu.be/dfbDCMu_p-0).
+> There is a video tutorial on [how to use this template to create your very first website here](https://youtu.be/dfbDCMu_p-0).
 
-## ¿Qué hacer a continuación?
+## View the live project
 
-Crea un archivo `index.html` con [la estructura básica de HTML](https://4geeks.com/es/lesson/what-is-html-learn-html-es#estructura-de-pgina) y ve el resultado en vivo corriendo un servidor web utilizando el siguiente comando:
+You can view the final layout of this project at the following link:
+
+[View on GitHub Pages](https://neptali-ricardo.github.io/spain-fs-pt-80-Neptali-Castejon-Instagram-Post-Layout/)
+
+## What to do next?
+
+Create an `index.html` file with the [basic HTML structure](http://4geeks.com/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
 
 ```bash
 $ pip3 install flask && python3 server.py
+
 ```
 
 - Puedes crear tantos archivos HTML cómo desees.
