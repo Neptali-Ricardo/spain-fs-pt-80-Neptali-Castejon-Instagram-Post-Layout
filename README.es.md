@@ -19,8 +19,6 @@ El layout presenta varias publicaciones que incluyen imágenes, títulos, intera
    ```bash
    git clone https://github.com/neptali-ricardo/spain-fs-pt-80-Neptali-Castejon-Instagram-Post-Layout.git
 
-## View the live project
-
-Puedes ver el maquetado final de este proyecto en el siguiente enlace:
+## Puedes ver el maquetado final de este proyecto en el siguiente enlace:
 
 [View on GitHub Pages](https://neptali-ricardo.github.io/spain-fs-pt-80-Neptali-Castejon-Instagram-Post-Layout/)
